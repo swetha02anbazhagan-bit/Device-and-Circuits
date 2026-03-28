@@ -42,12 +42,12 @@ gm =ID/VGS
 <img width="428" height="282" alt="image" src="https://github.com/user-attachments/assets/e1168bd1-4f0a-4640-b4c4-5d179b72c5cf" />
 
 # GRAPH:
+<img width="619" height="789" alt="image" src="https://github.com/user-attachments/assets/6d2b4885-1e49-4666-95bf-7c42a88ee5fc" />
 
 
 # TABULATION:
+<img width="545" height="716" alt="image" src="https://github.com/user-attachments/assets/e167c903-6650-463c-bba3-8dfa25fe2281" />
 
-
-# CALCULATION:
 
 # RESULT:
 Thus the drain and transfer characteristics of the given JFET are drawn , the following
