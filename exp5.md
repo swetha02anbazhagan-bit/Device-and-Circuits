@@ -98,17 +98,14 @@ Step 3: Calculate hrb =∆𝑉𝑏𝑐
 
 
 # TABULATION:
-# INPUT CHARACTERISTICS:
-
-# OUTPUT CHARACTERISTICS: 
-
-# MODEL CALCULATION :
+<img width="756" height="921" alt="image" src="https://github.com/user-attachments/assets/38ec0223-f787-4643-9755-1df624d7eb41" />
 
 # MODEL GRAPH:
 
 <img width="540" height="237" alt="image" src="https://github.com/user-attachments/assets/737a1839-adcc-47e8-b14a-ef9c14a3432c" />
 
 # GRAPH:
+<img width="617" height="754" alt="image" src="https://github.com/user-attachments/assets/31199935-fbb0-4405-b0cf-2f14c293ed53" />
 
 
 # RESULT:
